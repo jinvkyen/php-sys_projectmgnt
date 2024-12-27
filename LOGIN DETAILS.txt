@@ -1,0 +1,19 @@
+
+Database Name: kkopi_dB
+
+Admin Login Details
+
+Username: admin
+Password: codeastro
+Username: ayen
+Password: 123
+
+User Login Details
+
+Username: ayenjtt
+Password: 123456
+
+Username: zawk
+Password: 12
+
+
