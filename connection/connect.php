@@ -3,7 +3,7 @@
 //main connection file for both admin & front end
 $servername = "localhost"; //server
 $username = "root"; //username
-$password = "jinSQL"; //password
+$password = ""; //password
 $dbname = "kkopi_db";  //database
 
 // Create connection
